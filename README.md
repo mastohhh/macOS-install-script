@@ -1,9 +1,3 @@
 # My macOS install script
 
-do
-
-`chmod a+x installConfig.sh`
-
-then
-
-`./installConfig.sh`
+`curl -fsSL https://raw.githubusercontent.com/mastohhh/macOS-install-script/master/installConfig.sh | sh`
