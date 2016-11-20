@@ -44,6 +44,7 @@ brew cask install filezilla
 brew cask install google-drive
 brew cask install dropbox
 brew cask install spotify
+brew cask install molotov
 
 #
 # Install AppStore
